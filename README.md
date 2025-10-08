@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helias-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -34,19 +34,12 @@
 
 ## 📊 My Github Stats
 
-  <a href="https://github.com/heliastorres">
-  <img 
-    alt="Helias Github Stats" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=heliastorres&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" 
-  />
+<div>
+<a href="https://beacons.ai/heliastorres">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliastorres&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliastorres&layout=compact&langs_count=16&theme=merko">
 </a>
-<a href="https://github.com/heliastorres">
-  <img 
-    alt="Helias Top Languages" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliastorres&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" 
-  />
-</a>
-<br/>
+</div>
+
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
