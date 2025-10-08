@@ -36,8 +36,8 @@
 
 <div>
 <a href="https://beacons.ai/heliastorres">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliastorres&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliastorres&layout=compact&langs_count=16&theme=merko">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliastorres&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliastorres&layout=compact&langs_count=16&theme=dark#gh-dark-mode-only">
 </a>
 </div>
 
