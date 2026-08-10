@@ -1,5 +1,5 @@
 ## Hi, 🙋‍♂️ I'am Helias Torres
-###      Computer Science student at the Federal Institute
+**`Analysis Data | FullStack Developer | Machine Learning`**
 
 
 <!-- Here are some ideas to get you started:
