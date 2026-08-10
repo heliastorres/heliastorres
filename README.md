@@ -32,10 +32,3 @@
  	<!-- <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
-
-## 📊 My Github Stats
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliastorres&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliastorres&layout=compact&langs_count=8&theme=dark" /> </div>
-
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
