@@ -35,3 +35,4 @@
 
 ## 🚀 Principais Projetos:
 - 🌌 **Sistema de Previsão de Inadimplência:** Projeto Machine Learning treinado para prever a taxa de inadimplência.
+- 🌐 **Conjugate Gradient Solver:** Algoritmo de um método projetado para resolver sistema lineares complexos e densos.
