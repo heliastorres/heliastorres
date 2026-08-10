@@ -34,4 +34,4 @@
 </div>
 
 ## 🚀 Principais Projetos:
-- Sistema de Previsão de Inadimplência: Projeto Machine Learning treinado para prever a taxa de inadimplência.
+- 🌌 Sistema de Previsão de Inadimplência: Projeto Machine Learning treinado para prever a taxa de inadimplência.
