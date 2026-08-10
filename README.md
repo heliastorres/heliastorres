@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 🚀 Languages:
+## 🤖 Languages:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helias-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -33,5 +33,5 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
 
-## Principais Projetos:
-- Projeto Machine Learning de um Sistema de Previsão de Inadimplência
+## 🚀 Principais Projetos:
+- Sistema de Previsão de Inadimplência: Projeto Machine Learning treinado para prever a taxa de inadimplência.
